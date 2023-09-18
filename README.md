@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YAcodingroom
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning Web-Development, C#, Python, SQL
+- 🌱 I’m currently learning Web-Development
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 

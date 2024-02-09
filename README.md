@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @YAcodingroom
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning Web-Development
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+喜歡閱讀｜攝影｜玩 MHN
+不喜歡單調｜沒禮貌｜黑木耳
+太陽天秤｜上升處女｜也是社恐
+人生就是一場打怪升級的冒險｜只是沒有無敵星星跟三角神力
+「一切都得靠自己努力才行」
 
-<!---
-YAcodingroom/YAcodingroom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+所以努力學習中
+React｜JavaScript｜Node.js｜git｜HTML/css｜Bootstrap｜

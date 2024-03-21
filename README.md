@@ -13,5 +13,10 @@
 ## Personal website
 - Site URL: https://yacodingroom.github.io/resume/
 
-### New exercises
+## New exercises
+### Todo List
 - Repo URL: https://github.com/YAcodingroom/todoList
+### Worldwise web app
+- Repo URL: https://github.com/YAcodingroom/worldwise
+### Pizza menu page
+- Repo URL: https://github.com/YAcodingroom/pizza-menu

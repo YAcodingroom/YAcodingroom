@@ -15,7 +15,7 @@
 
 ## New exercises
 ### Todo List
-- Live URL: https://yacodingroom.github.io/login
+- Live URL: https://yacodingroom.github.io/todoList/
 - See the Repo: https://github.com/YAcodingroom/todoList
 ### Worldwise web app
 - Repo URL: https://github.com/YAcodingroom/worldwise

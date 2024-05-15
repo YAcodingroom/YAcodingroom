@@ -19,5 +19,6 @@
 - See the Repo: https://github.com/YAcodingroom/todoList
 ### Worldwise web app
 - Repo URL: https://github.com/YAcodingroom/worldwise
-### Pizza menu page
-- Repo URL: https://github.com/YAcodingroom/pizza-menu
+### Mapty app
+- Live URL: https://yacodingroom.github.io/mapty/
+- Repo URL: https://github.com/YAcodingroom/mapty

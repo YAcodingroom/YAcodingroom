@@ -11,7 +11,7 @@
 - React｜JavaScript｜Node.js｜git｜HTML/css｜Bootstrap｜
 
 ## Personal website
-- Site URL: https://yacodingroom.github.io/resume/
+- Site URL: https://yal-resume.netlify.app/
 
 ## New exercises
 ### Todo List

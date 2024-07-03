@@ -14,4 +14,4 @@
 - Site URL: https://yal-resume.netlify.app/
 
 ## Blog 學習筆記
-- Site URL: https://vocus.cc/salon/65a9d6b7fd897800019389dc
+- Site URL: https://vocus.cc/user/@YAL19

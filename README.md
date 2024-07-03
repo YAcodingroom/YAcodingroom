@@ -10,15 +10,8 @@
 - 所以努力學習中
 - React｜JavaScript｜Node.js｜git｜HTML/css｜Bootstrap｜
 
-## Personal website
+## Personal website 個人網站
 - Site URL: https://yal-resume.netlify.app/
 
-## New exercises
-### Todo List
-- Live URL: https://yacodingroom.github.io/todoList/
-- See the Repo: https://github.com/YAcodingroom/todoList
-### Worldwise web app
-- Repo URL: https://github.com/YAcodingroom/worldwise
-### Mapty app
-- Live URL: https://yacodingroom.github.io/mapty/
-- Repo URL: https://github.com/YAcodingroom/mapty
+## Blog 學習筆記
+- Site URL: https://vocus.cc/salon/65a9d6b7fd897800019389dc
